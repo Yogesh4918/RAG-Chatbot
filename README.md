@@ -124,7 +124,7 @@ pip install -r requirements.txt
 ### Step 4: Configure API Key
 Edit the `.env` file and add your Groq API key:
 ```
-GROQ_API_KEY=gsk_your_actual_api_key_here
+GROQ_API_KEY=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
 ```
 
 ### Step 5: Run the Application
