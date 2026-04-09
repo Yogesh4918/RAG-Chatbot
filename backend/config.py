@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ── Groq API Configuration ─────────────────────────────────────────────────
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
 
 # ── LLM Settings ───────────────────────────────────────────────────────────
 LLM_MODEL_NAME = "llama-3.3-70b-versatile"  # Groq-hosted LLaMA 3.3 70B
